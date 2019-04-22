@@ -1,14 +1,15 @@
-C:\Users\Xavier Joseph\Downloads\aws-lambda\aws-lambda\src\main\java\miscy\BranchInVine.java
-C:\Users\Xavier Joseph\Downloads\aws-lambda\aws-lambda\src\main\java\com\baeldung\lambda\dynamodb\bean\PersonRequest.java
-C:\Users\Xavier Joseph\Downloads\aws-lambda\aws-lambda\src\main\java\com\baeldung\lambda\apigateway\APIDemoHandler.java
-C:\Users\Xavier Joseph\Downloads\aws-lambda\aws-lambda\src\main\java\miscy\GatewayResponse.java
-C:\Users\Xavier Joseph\Downloads\aws-lambda\aws-lambda\src\main\java\com\baeldung\lambda\LambdaRequestHandler.java
-C:\Users\Xavier Joseph\Downloads\aws-lambda\aws-lambda\src\main\java\com\baeldung\lambda\LambdaMethodHandler.java
-C:\Users\Xavier Joseph\Downloads\aws-lambda\aws-lambda\src\main\java\miscy\ParsingJson.java
-C:\Users\Xavier Joseph\Downloads\aws-lambda\aws-lambda\src\main\java\miscy\MyLambdaRequest.java
-C:\Users\Xavier Joseph\Downloads\aws-lambda\aws-lambda\src\main\java\com\baeldung\lambda\dynamodb\SavePersonHandler.java
-C:\Users\Xavier Joseph\Downloads\aws-lambda\aws-lambda\src\main\java\miscy\GatewayRequest.java
-C:\Users\Xavier Joseph\Downloads\aws-lambda\aws-lambda\src\main\java\miscy\MyLambdaResponse.java
-C:\Users\Xavier Joseph\Downloads\aws-lambda\aws-lambda\src\main\java\com\baeldung\lambda\apigateway\model\Person.java
-C:\Users\Xavier Joseph\Downloads\aws-lambda\aws-lambda\src\main\java\com\baeldung\lambda\dynamodb\bean\PersonResponse.java
-C:\Users\Xavier Joseph\Downloads\aws-lambda\aws-lambda\src\main\java\com\baeldung\lambda\LambdaRequestStreamHandler.java
+C:\Users\xavier.joseph\Desktop\AIIVR\src\main\java\miscy\GatewayRequest.java
+C:\Users\xavier.joseph\Desktop\AIIVR\src\main\java\com\baeldung\lambda\LambdaRequestHandler.java
+C:\Users\xavier.joseph\Desktop\AIIVR\src\main\java\com\baeldung\lambda\apigateway\APIDemoHandler.java
+C:\Users\xavier.joseph\Desktop\AIIVR\src\main\java\com\baeldung\lambda\LambdaRequestStreamHandler.java
+C:\Users\xavier.joseph\Desktop\AIIVR\src\main\java\com\baeldung\lambda\dynamodb\bean\PersonResponse.java
+C:\Users\xavier.joseph\Desktop\AIIVR\src\main\java\miscy\MyLambdaRequest.java
+C:\Users\xavier.joseph\Desktop\AIIVR\src\main\java\miscy\GatewayResponse.java
+C:\Users\xavier.joseph\Desktop\AIIVR\src\main\java\miscy\BranchInVine.java
+C:\Users\xavier.joseph\Desktop\AIIVR\src\main\java\com\baeldung\lambda\apigateway\model\Person.java
+C:\Users\xavier.joseph\Desktop\AIIVR\src\main\java\com\baeldung\lambda\dynamodb\SavePersonHandler.java
+C:\Users\xavier.joseph\Desktop\AIIVR\src\main\java\miscy\ParsingJson.java
+C:\Users\xavier.joseph\Desktop\AIIVR\src\main\java\com\baeldung\lambda\dynamodb\bean\PersonRequest.java
+C:\Users\xavier.joseph\Desktop\AIIVR\src\main\java\miscy\MyLambdaResponse.java
+C:\Users\xavier.joseph\Desktop\AIIVR\src\main\java\com\baeldung\lambda\LambdaMethodHandler.java
+C:\Users\xavier.joseph\Desktop\AIIVR\src\main\java\miscy\ParseJson.java
