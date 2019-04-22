@@ -1,0 +1,30 @@
+{
+	"responseId": "6473bf72-7079-4c15-8669-afeb85908164",
+	"queryResult": {
+		"queryText": "88686",
+		"action": "order.status",
+		"parameters": {
+			"order-number": 88686,
+			"email": "xavierjosephh@gmail.com"
+		},
+		"allRequiredParamsPresent": true,
+		"fulfillmentText": "Your order is accepted for processing.",
+		"fulfillmentMessages": [{
+			"text": {
+				"text": [
+					"Your order is accepted for processing."
+				]
+			}
+		}],
+		"intent": {
+			"name": "projects/dialogflow-poc-230505/agent/intents/fcb8a584-5ca1-41c7-b67e-34a35dd53602",
+			"displayName": "order.status"
+		},
+		"intentDetectionConfidence": 1,
+		"languageCode": "en"
+	},
+	"originalDetectIntentRequest": {
+		"payload": {}
+	},
+	"session": "projects/dialogflow-poc-230505/agent/sessions/4736039c-fb98-d77b-80f1-1e6e80110784"
+}
