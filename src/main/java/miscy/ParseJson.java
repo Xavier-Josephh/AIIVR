@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.lang.invoke.LambdaMetafactory;
+
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -11,6 +13,9 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class ParseJson {
 
 	public static void main(String[] args) {
+		
+		LambdaMetafactory l = new LambdaMetafactory();
+		
 		BufferedReader serverData = null;
 		try {
 			serverData = new BufferedReader(new FileReader("json_string_file.json"));

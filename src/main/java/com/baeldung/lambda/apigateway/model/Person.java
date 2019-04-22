@@ -8,12 +8,12 @@ public class Person {
     private int id;
     private String name;
 
-    public Person(String json) {
-        Gson gson = new Gson();
-        Person request = gson.fromJson(json, Person.class);
-        this.id = request.getId();
-        this.name = request.getName();
-    }
+//    public Person(String json) {
+//        Gson gson = new Gson();
+//        Person request = gson.fromJson(json, Person.class);
+//        this.id = request.getId();
+//        this.name = request.getName();
+//    }
 
     public String toString() {
         final Gson gson = new GsonBuilder().setPrettyPrinting().create();
@@ -29,7 +29,7 @@ public class Person {
     }
 
     public String getName() {
-        return name;
+        return "hello";
     }
 
     public void setName(String name) {
